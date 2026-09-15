@@ -291,9 +291,18 @@ A smart shopping project focused on improving the shopping experience and reduci
 
 <br>
 
+<a href="https://github.com/AkshayaDharshini246/Smart-cart-for-hyper-markets">
+
+
 <img src="https://img.shields.io/badge/🛒%20SMART%20SHOPPING-PROJECT-FF6F00?style=for-the-badge"/>
 
+</a>
+
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
 
