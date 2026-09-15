@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://github.com/AkshayaDharshini246">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-AkshayaDharshini246-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Akshaya-Dharshini/">
@@ -41,6 +41,52 @@
 🚀 Building projects that solve **real-world problems using technology**
 
 🌱 Always learning, experimenting, and growing
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+</p>
+
+### 🤖 AI • Machine Learning • Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+</p>
+
+### 🗄️ Tools & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,jupyter" />
+</p>
 
 </div>
 
@@ -219,37 +265,19 @@ A data-driven project focused on weather analysis and forecasting.
 
 ---
 
-# 🎮 Explore My Projects
+# 🎬 Project Showcase
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/AkshayaDharshini246/second_brain">
-<img src="https://img.shields.io/badge/🧠%20Second%20Brain-View%20Repo-8A2BE2?style=for-the-badge"/>
-</a>
+<img src="https://raw.githubusercontent.com/AkshayaDharshini246/AkshayaDharshini246/main/assets/projects-showcase.gif" width="850"/>
 
-<a href="https://github.com/AkshayaDharshini246/MediGuide-Ehanced-and-Completely-working-prototype">
-<img src="https://img.shields.io/badge/🏥%20MediGuide-View%20Repo-00A67E?style=for-the-badge"/>
-</a>
+### 💡 Explore • Build • Experiment • Solve • Innovate
 
-<a href="https://github.com/AkshayaDharshini246/BharatRailIQ">
-<img src="https://img.shields.io/badge/🚆%20Bharat%20Rail%20IQ-View%20Repo-FF6B35?style=for-the-badge"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/🤖%20AI%20%26%20ML-Projects-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🌐%20Web-Development-00BFFF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🚀%20Hackathon-Builds-FF6B35?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 Hackathon Highlights
+# 🏆 Hackathon Projects
 
 <table>
 <tr>
@@ -270,7 +298,7 @@ A data-driven project focused on weather analysis and forecasting.
 
 <a href="https://github.com/AkshayaDharshini246/BharatRailIQ">
 
-<img src="https://img.shields.io/badge/🚆%20EXPLORE%20PROJECT-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚆%20VIEW%20REPOSITORY-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -290,14 +318,228 @@ A data-driven project focused on weather analysis and forecasting.
 
 <a href="https://github.com/AkshayaDharshini246/second_brain">
 
-<img src="https://img.shields.io/badge/🧠%20EXPLORE%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🧠%20VIEW%20REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+## 🏥 MediGuide
+
+### Full Stack Healthcare Project
+
+🏥 Hospital Navigation  
+👨‍⚕️ Doctor Assistance  
+📅 Appointment Booking  
+🗺️ Patient Guidance
+
+<br>
+
+<a href="https://github.com/AkshayaDharshini246/MediGuide-Ehanced-and-Completely-working-prototype">
+
+<img src="https://img.shields.io/badge/🏥%20VIEW%20REPOSITORY-00A67E?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+## 🚀 Hackathon Mindset
+
+💡 Identify Problems  
+🧠 Design Intelligent Solutions  
+🛠️ Build Working Prototypes  
+🧪 Test & Improve  
+🏆 Present & Innovate
+
+</td>
+
+</tr>
+
 </table>
+
+---
+
+# 💼 Internship Projects
+
+<p align="center">
+
+### 🌐 Practical Development • 💻 Real-World Projects • 🚀 Continuous Learning
+
+</p>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## ✅ Modern To-Do Task Manager
+
+A modern task management application designed to organize daily activities, manage tasks efficiently and provide a clean interactive user experience.
+
+**Tech Stack**
+
+`JavaScript` `HTML` `CSS`
+
+<br>
+
+<a href="https://github.com/AkshayaDharshini246/-Modern-To-Do-Task-Manager">
+
+<img src="https://img.shields.io/badge/✅%20VIEW%20REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🧠 Interactive Quiz Application
+
+An interactive quiz application designed to provide an engaging question-and-answer experience with dynamic interaction.
+
+**Tech Stack**
+
+`JavaScript` `HTML` `CSS`
+
+<br>
+
+<a href="https://github.com/AkshayaDharshini246/Interactive-quiz-application">
+
+<img src="https://img.shields.io/badge/🧠%20VIEW%20REPOSITORY-00A67E?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Personal Portfolio
+
+A responsive personal portfolio website designed to showcase skills, projects, achievements and professional information.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="https://github.com/AkshayaDharshini246/Personal-Portfolio">
+
+<img src="https://img.shields.io/badge/🌐%20VIEW%20REPOSITORY-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🌦️ Global Weather Forecasting
+
+A data-driven weather project focused on analyzing weather information and generating forecasting insights.
+
+**Tech Stack**
+
+`Python` `Data Science` `Machine Learning`
+
+<br>
+
+<img src="https://img.shields.io/badge/🌦️%20WEATHER%20FORECASTING-PROJECT-4285F4?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 💰 Galaxy-Themed Finance Manager
+
+A visually engaging finance management frontend featuring a galaxy-inspired interface for tracking and presenting financial information.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Frontend`
+
+<br>
+
+<a href="https://github.com/AkshayaDharshini246/Galaxy-themed-Finance-Manager-Frontend">
+
+<img src="https://img.shields.io/badge/💰%20VIEW%20REPOSITORY-7F3FBF?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td width="50%">
+
+## 💻 Frontend Development Experience
+
+During my development journey, I have worked on interactive web interfaces, responsive applications and practical frontend projects.
+
+<br>
+
+<img src="https://img.shields.io/badge/🌐%20WEB-DEVELOPMENT-00BFFF?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🔗 Project Repository Hub
+
+<div align="center">
+
+### 🚀 Featured Repositories
+
+<a href="https://github.com/AkshayaDharshini246/second_brain">
+<img src="https://img.shields.io/badge/🧠%20Second%20Brain-Repository-8A2BE2?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/AkshayaDharshini246/MediGuide-Ehanced-and-Completely-working-prototype">
+<img src="https://img.shields.io/badge/🏥%20MediGuide-Repository-00A67E?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/AkshayaDharshini246/BharatRailIQ">
+<img src="https://img.shields.io/badge/🚆%20Bharat%20Rail%20IQ-Repository-FF6B35?style=for-the-badge&logo=github"/>
+</a>
+
+<br/><br/>
+
+### 💻 Development Projects
+
+<a href="https://github.com/AkshayaDharshini246/-Modern-To-Do-Task-Manager">
+<img src="https://img.shields.io/badge/✅%20To--Do%20Manager-Repository-8A2BE2?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/AkshayaDharshini246/Interactive-quiz-application">
+<img src="https://img.shields.io/badge/🧠%20Quiz%20Application-Repository-00A67E?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/AkshayaDharshini246/Personal-Portfolio">
+<img src="https://img.shields.io/badge/🌐%20Personal%20Portfolio-Repository-FF6B35?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/AkshayaDharshini246/Galaxy-themed-Finance-Manager-Frontend">
+<img src="https://img.shields.io/badge/💰%20Finance%20Manager-Repository-7F3FBF?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
@@ -327,6 +569,6 @@ A data-driven project focused on weather analysis and forecasting.
               🔄 IMPROVE
                    │
                    ▼
-                ✨ GROW
+                 ✨ GROW
 
 
