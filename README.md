@@ -193,6 +193,94 @@ A Chrome extension designed to detect manipulative website patterns such as urge
 
 <td width="50%">
 
+## ✅ Modern To-Do Task Manager
+
+A modern task management application designed to organize daily activities, manage tasks efficiently and provide a clean interactive user experience.
+
+**Tech Stack**
+
+`JavaScript` `HTML` `CSS`
+
+<br>
+
+<a href="https://github.com/AkshayaDharshini246/-Modern-To-Do-Task-Manager">
+
+<img src="https://img.shields.io/badge/✅%20VIEW%20REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🧠 Interactive Quiz Application
+
+An interactive quiz application designed to provide an engaging question-and-answer experience with dynamic interaction.
+
+**Tech Stack**
+
+`JavaScript` `HTML` `CSS`
+
+<br>
+
+<a href="https://github.com/AkshayaDharshini246/Interactive-quiz-application">
+
+<img src="https://img.shields.io/badge/🧠%20VIEW%20REPOSITORY-00A67E?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Personal Portfolio
+
+A responsive personal portfolio website designed to showcase skills, projects, achievements and professional information.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="https://github.com/AkshayaDharshini246/Personal-Portfolio">
+
+<img src="https://img.shields.io/badge/🌐%20VIEW%20REPOSITORY-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td width="50%">
+
+## 💰 Galaxy-Themed Finance Manager
+
+A visually engaging finance management frontend featuring a galaxy-inspired interface for tracking and presenting financial information.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Frontend`
+
+<br>
+
+<a href="https://github.com/AkshayaDharshini246/Galaxy-themed-Finance-Manager-Frontend">
+
+<img src="https://img.shields.io/badge/💰%20VIEW%20REPOSITORY-7F3FBF?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
 ## 🛒 Smart Cart
 
 A smart shopping project focused on improving the shopping experience and reducing billing wait time through technology.
@@ -262,18 +350,6 @@ A data-driven project focused on weather analysis and forecasting.
 </tr>
 
 </table>
-
----
-
-# 🎬 Project Showcase
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AkshayaDharshini246/AkshayaDharshini246/main/assets/projects-showcase.gif" width="850"/>
-
-### 💡 Explore • Build • Experiment • Solve • Innovate
-
-</div>
 
 ---
 
@@ -570,5 +646,28 @@ During my development journey, I have worked on interactive web interfaces, resp
                    │
                    ▼
                  ✨ GROW
+```
+
+</p>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="https://www.linkedin.com/in/akshaya-dharshini-m-680924320/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AkshayaDharshini246">
+<img src="https://img.shields.io/badge/GitHub-AkshayaDharshini246-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Akshaya-Dharshini/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
 
 
