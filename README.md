@@ -103,7 +103,7 @@
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🧠 Second Brain
 
@@ -123,7 +123,7 @@ An AI-powered knowledge and meeting assistant that helps users capture, organize
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🏥 MediGuide
 
@@ -147,7 +147,7 @@ A healthcare-focused hospital navigation and assistance system designed to impro
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🚆 Bharat Rail IQ
 
@@ -171,7 +171,7 @@ Combines AI, railway data, geospatial analysis and optimization to support smart
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🛡️ Dark Pattern Detector
 
@@ -191,7 +191,7 @@ A Chrome extension designed to detect manipulative website patterns such as urge
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## ✅ Modern To-Do Task Manager
 
@@ -211,7 +211,7 @@ A modern task management application designed to organize daily activities, mana
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🧠 Interactive Quiz Application
 
@@ -235,7 +235,7 @@ An interactive quiz application designed to provide an engaging question-and-ans
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🌐 Personal Portfolio
 
@@ -255,7 +255,7 @@ A responsive personal portfolio website designed to showcase skills, projects, a
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 💰 Galaxy-Themed Finance Manager
 
@@ -279,7 +279,7 @@ A visually engaging finance management frontend featuring a galaxy-inspired inte
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🛒 Smart Cart
 
@@ -293,18 +293,13 @@ A smart shopping project focused on improving the shopping experience and reduci
 
 <a href="https://github.com/AkshayaDharshini246/Smart-cart-for-hyper-markets">
 
-
-<img src="https://img.shields.io/badge/🛒%20SMART%20SHOPPING-PROJECT-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🛒%20VIEW%20REPOSITORY-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🐄 Indian Cattle Breed Recognition
 
@@ -316,7 +311,11 @@ A machine learning-based project that identifies Indian cattle breeds using imag
 
 <br>
 
-<img src="https://img.shields.io/badge/🤖%20MACHINE%20LEARNING-PROJECT-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<a href="https://github.com/AkshayaDharshini246/SIH-Project-Indian-Cattle-Breed-recognition">
+
+<img src="https://img.shields.io/badge/🐄%20VIEW%20REPOSITORY-3776AB?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 </td>
 
@@ -324,7 +323,7 @@ A machine learning-based project that identifies Indian cattle breeds using imag
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🍎 Fruit Classification Model
 
@@ -340,7 +339,7 @@ An image classification project that uses deep learning to identify different ty
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🌦️ Global Weather Forecasting
 
@@ -352,7 +351,11 @@ A data-driven project focused on weather analysis and forecasting.
 
 <br>
 
-<img src="https://img.shields.io/badge/📊%20DATA%20SCIENCE-PROJECT-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<a href="https://github.com/AkshayaDharshini246/Weather-Forecasting">
+
+<img src="https://img.shields.io/badge/🌦️%20VIEW%20REPOSITORY-150458?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 </td>
 
@@ -367,7 +370,7 @@ A data-driven project focused on weather analysis and forecasting.
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="33%" align="center" valign="top">
 
 ## 🚆 Bharat Rail IQ
 
@@ -389,7 +392,7 @@ A data-driven project focused on weather analysis and forecasting.
 
 </td>
 
-<td width="50%" align="center">
+<td width="33%" align="center" valign="top">
 
 ## 🧠 Second Brain
 
@@ -409,11 +412,7 @@ A data-driven project focused on weather analysis and forecasting.
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
+<td width="33%" align="center" valign="top">
 
 ## 🏥 MediGuide
 
@@ -434,20 +433,7 @@ A data-driven project focused on weather analysis and forecasting.
 
 </td>
 
-<td width="50%" align="center">
-
-## 🚀 Hackathon Mindset
-
-💡 Identify Problems  
-🧠 Design Intelligent Solutions  
-🛠️ Build Working Prototypes  
-🧪 Test & Improve  
-🏆 Present & Innovate
-
-</td>
-
 </tr>
-
 </table>
 
 ---
@@ -464,7 +450,7 @@ A data-driven project focused on weather analysis and forecasting.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## ✅ Modern To-Do Task Manager
 
@@ -484,7 +470,7 @@ A modern task management application designed to organize daily activities, mana
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🧠 Interactive Quiz Application
 
@@ -508,7 +494,7 @@ An interactive quiz application designed to provide an engaging question-and-ans
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🌐 Personal Portfolio
 
@@ -528,7 +514,7 @@ A responsive personal portfolio website designed to showcase skills, projects, a
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🌦️ Global Weather Forecasting
 
@@ -540,7 +526,11 @@ A data-driven weather project focused on analyzing weather information and gener
 
 <br>
 
-<img src="https://img.shields.io/badge/🌦️%20WEATHER%20FORECASTING-PROJECT-4285F4?style=for-the-badge"/>
+<a href="https://github.com/AkshayaDharshini246/Weather-Forecasting">
+
+<img src="https://img.shields.io/badge/🌦️%20VIEW%20REPOSITORY-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 </td>
 
@@ -548,7 +538,7 @@ A data-driven weather project focused on analyzing weather information and gener
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 💰 Galaxy-Themed Finance Manager
 
@@ -568,17 +558,7 @@ A visually engaging finance management frontend featuring a galaxy-inspired inte
 
 </td>
 
-<td width="50%">
-
-## 💻 Frontend Development Experience
-
-During my development journey, I have worked on interactive web interfaces, responsive applications and practical frontend projects.
-
-<br>
-
-<img src="https://img.shields.io/badge/🌐%20WEB-DEVELOPMENT-00BFFF?style=for-the-badge"/>
-
-</td>
+<td width="50%" valign="top"></td>
 
 </tr>
 
@@ -622,6 +602,22 @@ During my development journey, I have worked on interactive web interfaces, resp
 
 <a href="https://github.com/AkshayaDharshini246/Galaxy-themed-Finance-Manager-Frontend">
 <img src="https://img.shields.io/badge/💰%20Finance%20Manager-Repository-7F3FBF?style=for-the-badge&logo=github"/>
+</a>
+
+<br/><br/>
+
+### 🤖 AI • ML • Data Science Projects
+
+<a href="https://github.com/AkshayaDharshini246/Smart-cart-for-hyper-markets">
+<img src="https://img.shields.io/badge/🛒%20Smart%20Cart-Repository-FF6F00?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/AkshayaDharshini246/SIH-Project-Indian-Cattle-Breed-recognition">
+<img src="https://img.shields.io/badge/🐄%20Cattle%20Breed%20Recognition-Repository-3776AB?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/AkshayaDharshini246/Weather-Forecasting">
+<img src="https://img.shields.io/badge/🌦️%20Weather%20Forecasting-Repository-150458?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
